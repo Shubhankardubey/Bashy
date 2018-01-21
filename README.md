@@ -8,7 +8,7 @@
 
 # Bashy: Online bash terminal(emulator) tutorial
 
-Check out the site live at  -->  [![bashy](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://sr6033.github.io/lterm/)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/lterm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Check out the site live at  -->  [![bashy](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://shubhankardubey.github.io/Bashy/)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/terminal_bashy/Lobby)
 
 **Bashy** is an online **Terminal Eminulator**. It is a step by step tutorial that will teach you the **bash** commands by making you execute them. 
 
@@ -41,10 +41,10 @@ It is fully online and doesn't require any extra shitty access. Being an emulato
 - `less`
 - `more`
 
-You can also make tutorials in the terminal also.
+You can also make tutorials in the terminal also. 
 
 #### To add your new commands
-- edit the file **<a href="https://github.com/sr6033/lterm/blob/master/js/main.js">main.js</a>** to add your commands. 
+- edit the file **<a href="https://github.com/Shubhankardubey/Bashy/blob/master/js/main.js">main.js</a>** to add your commands. 
 - You don't have to worry about any other files or programs.
 
 ---
@@ -108,3 +108,5 @@ echo: function(arg1) {
 
 
 *May the Force be with you.*
+
+So guys start forking.
