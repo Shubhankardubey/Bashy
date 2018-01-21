@@ -1,14 +1,14 @@
-		          __       ________   _______   _____   _     _    __
-                    |  |     |__    __| |   ____| |  _  | | \   / |   \ \           
-                    |  |        |  |    |  |__    | |_| | |  \_/  |    \ \          
-                    |  |      o |  |    |     |   |   __| |   _   |     \ \         
-                    |  |      o |  |    |   __|   |   \   |  | |  |     / /         
-                    |  |____  o |  |    |  |____  |    \  |  | |  |    / / ____   
-                    |_______| o |__|    |_______| |__|\_\ |__| |__|   /_/ |____|  
+		          
+                      \ \           
+                       \ \          
+                        \ \         
+                        / /         
+                       / / ____   
+                      /_/ |____|  
 
 # Bashy: Online bash terminal(emulator) tutorial
 
-Check out the site live at  -->  [![lterm](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://sr6033.github.io/lterm/)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/lterm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Check out the site live at  -->  [![bashy](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://sr6033.github.io/lterm/)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/lterm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 **Bashy** is an online **Terminal Eminulator**. It is a step by step tutorial that will teach you the **bash** commands by making you execute them. 
 
