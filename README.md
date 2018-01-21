@@ -73,7 +73,7 @@ cd: function(arg1) {
                 if(cmd == 'another_command')
                     this.echo('another_command');
 		}, {
-                    prompt: '[[b;#44D544;]lterm@localhost/' + arg1 + ':~$] ',
+                    prompt: '[[b;#44D544;]bashy@localhost/' + arg1 + ':~$] ',
                    }
         );
 }
